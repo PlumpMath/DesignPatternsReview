@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatternsTrainning", "DesignPatternsTrainning\DesignPatternsTrainning.csproj", "{8888F6EB-8B7D-4F1A-BFC9-B47090F7AF33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.NUnitTDD", "DesignPatterns.NUnitTDD\DesignPatterns.NUnitTDD.csproj", "{BEC405D2-B7A6-4314-B287-5BF2A6C82EC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.ManageMembership,Core", "DesignPatterns.ManageMembership,Core\DesignPatterns.ManageMembership,Core.csproj", "{940BBD82-BDDF-488E-97C4-CA7BF918ABA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DessignPatterns.ManageMembership.Model", "DessignPatterns.ManageMembership.Model\DessignPatterns.ManageMembership.Model.csproj", "{423184D7-D88B-4999-B42C-9F6684989E0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DessignPatterns.ManageMembership.Utils", "DessignPatterns.ManageMembership.Utils\DessignPatterns.ManageMembership.Utils.csproj", "{815D639D-49BD-4091-A690-C8813ABB41B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Review", "DesignPatterns.Review\DesignPatterns.Review.csproj", "{E2CDB6D2-B679-42B6-9F00-A209E9E39B84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8888F6EB-8B7D-4F1A-BFC9-B47090F7AF33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8888F6EB-8B7D-4F1A-BFC9-B47090F7AF33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8888F6EB-8B7D-4F1A-BFC9-B47090F7AF33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8888F6EB-8B7D-4F1A-BFC9-B47090F7AF33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEC405D2-B7A6-4314-B287-5BF2A6C82EC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEC405D2-B7A6-4314-B287-5BF2A6C82EC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEC405D2-B7A6-4314-B287-5BF2A6C82EC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEC405D2-B7A6-4314-B287-5BF2A6C82EC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{940BBD82-BDDF-488E-97C4-CA7BF918ABA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{940BBD82-BDDF-488E-97C4-CA7BF918ABA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{940BBD82-BDDF-488E-97C4-CA7BF918ABA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{940BBD82-BDDF-488E-97C4-CA7BF918ABA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{423184D7-D88B-4999-B42C-9F6684989E0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{423184D7-D88B-4999-B42C-9F6684989E0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{423184D7-D88B-4999-B42C-9F6684989E0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{423184D7-D88B-4999-B42C-9F6684989E0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{815D639D-49BD-4091-A690-C8813ABB41B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{815D639D-49BD-4091-A690-C8813ABB41B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{815D639D-49BD-4091-A690-C8813ABB41B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{815D639D-49BD-4091-A690-C8813ABB41B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2CDB6D2-B679-42B6-9F00-A209E9E39B84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2CDB6D2-B679-42B6-9F00-A209E9E39B84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2CDB6D2-B679-42B6-9F00-A209E9E39B84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2CDB6D2-B679-42B6-9F00-A209E9E39B84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
